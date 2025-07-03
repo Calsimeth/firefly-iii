@@ -1,0 +1,6 @@
+Volumes/
+.env
+.db.env
+.importer.env
+.git/
+*.log

@@ -1,0 +1,7 @@
+./Volumes/
+/.idea/
+
+# environment variables
+.env
+.db.env
+.importer.env
